@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113.66 31.12">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        fill: #f06449;
+      }
+
+      .cls-3 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-5 {
+        fill: #5bc3eb;
+      }
+
+      .cls-6 {
+        fill: #fff;
+        font-family: Inter-Regular, Inter;
+        font-size: 11.09px;
+        font-variation-settings: 'wght' 400, 'slnt' 0;
+      }
+
+      .cls-7 {
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-5" d="m0,15.56C0,6.28,6.1,0,15.23,0s15.28,6.28,15.28,15.56-6.1,15.56-15.23,15.56S0,24.9,0,15.56Zm4.73,0c0,8.61,3.11,12.25,10.5,12.25s10.56-3.64,10.56-12.25S22.61,3.31,15.22,3.31,4.73,6.95,4.73,15.56Z"/>
+    <path class="cls-2" d="m34.25,23.08h0c1.88,0,3.4,1.57,3.4,3.5h0c0,1.93-1.52,3.5-3.4,3.5h0c-1.88,0-3.4-1.57-3.4-3.5h0c0-1.93,1.52-3.5,3.4-3.5Z"/>
+  </g>
+  <text class="cls-6" transform="translate(41.23 8.22) scale(.97 1)"><tspan class="cls-1" x="0" y="0">п</tspan><tspan x="6.24" y="0">у</tspan><tspan class="cls-7" x="12.41" y="0">т</tspan><tspan x="18.02" y="0">евод</tspan><tspan class="cls-3" x="44.23" y="0">и</tspan><tspan class="cls-7" x="50.38" y="0">т</tspan><tspan x="55.99" y="0">ель</tspan><tspan x="0" y="11">по о</tspan><tspan class="cls-4" x="22.81" y="11">с</tspan><tspan x="28.88" y="11">тровам</tspan><tspan x="0" y="22">Сахалина</tspan></text>
+</svg>
